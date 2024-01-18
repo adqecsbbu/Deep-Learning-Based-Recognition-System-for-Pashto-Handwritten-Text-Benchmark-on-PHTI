@@ -10,7 +10,7 @@ A Deep Learning- Based Recognition System for Handwritten Text in the Pashto lan
 
 path/to/your/folder>rnnlib <yourconfigfile.config>
 
-DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10527848.svg)](https://doi.org/10.5281/zenodo.10527848)
+Cite DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10527848.svg)](https://doi.org/10.5281/zenodo.10527848)
 
 *Note: in case of any difficulty please feel free to contact ibrar@sbbu.edu.pk
 
